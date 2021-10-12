@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+div{
+   font-family: 'Dancing Script', monospace;
+   border-radius: 10px;
+   border-style: dashed;
+   border-color: black;
+   color: blueviolet;
+   opacity: 0.7;
+   background-color: white;
+   }
+  body{
+     background-image: url( History.jpg);
+     background-repeat: no-repeat;
+     background-size: 200vw 200vh;
+  } 
+
+  label{
+   font-size: 35px;
+   color: royalblue
+   }
+   
+   span{
+   font-size: 35px;
+   color: orange;
+   } 
+  
+  col{
+     text-align: center;
+  }
+
+  iframe{
+     margin-left: 400px;
+  }
+
+  h1{
+     color: white;
+  }
+  h2{
+     color: white;
+  }
+  a{
+     text-decoration:indigo;
+     font-family: 'Dancing Script', monospace;
+  }
